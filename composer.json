@@ -1,0 +1,16 @@
+{
+    "name": "keitamax/sample-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Keitamax\\SamplePackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NiheiKeita",
+            "email": "86122925+NiheiKeita@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
